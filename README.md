@@ -13,11 +13,11 @@ To install **Amazon-Clone**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/SHYAM1705/amazon-clone.git
+sudo git clone https://github.com/SHYAM1705/Amazon-clone.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/SHYAM1705/amazon-clone.git
+git clone https://github.com/SHYAM1705/Amazon-clone.git
 ```
